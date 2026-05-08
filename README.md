@@ -1,4 +1,4 @@
-                        📺 Advanced Technical Video Feed
+# 📺 Advanced Technical Video Feed
 
 A professional, high-performance video dashboard that integrates the **YouTube Data API v3** to display a live feed of project demos and technical content.
 
@@ -31,26 +31,16 @@ To demonstrate my ability to bridge the gap between **backend data** and **premi
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Asr13b/myYoutubeFeed.git](https://github.com/Asr13b/myYoutubeFeed.git)
+Setup API Key: Open index.html and replace the API_KEY and CHANNEL_ID with your own Google Cloud credentials.
 
-```
+Deployment: This project is pre-configured for GitHub Pages or Netlify.
 
-2. **Setup API Key:** Open `index.html` and replace the `API_KEY` and `CHANNEL_ID` with your own Google Cloud credentials.
-3. **Deployment:** This project is pre-configured for **GitHub Pages** or **Netlify**.
+🔒 Security Note
+The API key used in this project is restricted via the Google Cloud Console. It is configured to only accept requests from authorized domains and is limited strictly to the YouTube Data API v3 to prevent unauthorized usage or quota abuse.
 
----
+📫 Connect with Me
+Live Demo: asrarvid.netlify.app
 
-### 🔒 Security Note
+LinkedIn: Asrar Fedlu Kedir
 
-The API key used in this project is **restricted** via the Google Cloud Console. It is configured to only accept requests from authorized domains and is limited strictly to the YouTube Data API v3 to prevent unauthorized usage or quota abuse.
-
----
-
-### 📫 Connect with Me
-
-* **Live Demo:** [asrarvid.netlify.app](https://asrarvid.netlify.app/)
-* **LinkedIn:** [Asrar Fedlu Kedir](https://www.linkedin.com/in/asrar-fedlu-kedir-23862520a)
-* **Portfolio:** [asrarfedlu-portfolio-web.netlify.app](https://asrarfedlu-portfolio-web.netlify.app)
-
----
-
-```
+Portfolio: asrarfedlu-portfolio-web.netlify.app
