@@ -41,7 +41,9 @@ To demonstrate my ability to bridge the gap between **backend data** and **premi
 
 2. **Setup API Key:** Open `index.html` and replace the `API_KEY` and `CHANNEL_ID` with your own Google Cloud credentials.
 3. **Deployment:** This project is pre-configured for **GitHub Pages** or **Netlify**.
-
+---
+### 🔒 Security Note
+The API key used in this project is **restricted** via the Google Cloud Console. It is configured to only accept requests from authorized domains and is limited strictly to the YouTube Data API v3 to prevent unauthorized usage or quota abuse.
 ---
 
 ### 📫 Connect with Me
