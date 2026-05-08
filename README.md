@@ -1,9 +1,5 @@
-Perfect. I've updated the **README.md** to include your new live link and kept all the advanced technical descriptions that match your new UI.
 
-### **The Updated Code to Paste (README.md)**
-
-```markdown
-# 📺 Advanced Technical Video Feed
+                     # 📺 Advanced Technical Video Feed
 
 A professional, high-performance video dashboard that integrates the **YouTube Data API v3** to display a live feed of project demos and technical content.
 
@@ -28,7 +24,7 @@ A professional, high-performance video dashboard that integrates the **YouTube D
 ---
 
 ### 💡 Why I Built This
-To demonstrate my ability to bridge the gap between **backend data** and **premium frontend experiences**. This project showcases my skills in API lifecycle management, asynchronous programming, and creating high-end user interfaces that align with modern web standards.
+To demonstrate my ability to bridge the gap between **backend data** and **frontend experiences**. This project showcases skills in API lifecycle management, asynchronous programming, and creating high-end user interfaces that align with modern web standards.
 
 ---
 
