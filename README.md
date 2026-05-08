@@ -1,5 +1,4 @@
-
-                     # 📺 Advanced Technical Video Feed
+                        📺 Advanced Technical Video Feed
 
 A professional, high-performance video dashboard that integrates the **YouTube Data API v3** to display a live feed of project demos and technical content.
 
@@ -24,7 +23,7 @@ A professional, high-performance video dashboard that integrates the **YouTube D
 ---
 
 ### 💡 Why I Built This
-To demonstrate my ability to bridge the gap between **backend data** and **frontend experiences**. This project showcases skills in API lifecycle management, asynchronous programming, and creating high-end user interfaces that align with modern web standards.
+To demonstrate my ability to bridge the gap between **backend data** and **premium frontend experiences**. This project showcases my skills in API lifecycle management, asynchronous programming, and creating high-end user interfaces that align with modern web standards.
 
 ---
 
@@ -37,9 +36,13 @@ To demonstrate my ability to bridge the gap between **backend data** and **front
 
 2. **Setup API Key:** Open `index.html` and replace the `API_KEY` and `CHANNEL_ID` with your own Google Cloud credentials.
 3. **Deployment:** This project is pre-configured for **GitHub Pages** or **Netlify**.
+
 ---
+
 ### 🔒 Security Note
+
 The API key used in this project is **restricted** via the Google Cloud Console. It is configured to only accept requests from authorized domains and is limited strictly to the YouTube Data API v3 to prevent unauthorized usage or quota abuse.
+
 ---
 
 ### 📫 Connect with Me
@@ -48,3 +51,6 @@ The API key used in this project is **restricted** via the Google Cloud Console.
 * **LinkedIn:** [Asrar Fedlu Kedir](https://www.linkedin.com/in/asrar-fedlu-kedir-23862520a)
 * **Portfolio:** [asrarfedlu-portfolio-web.netlify.app](https://asrarfedlu-portfolio-web.netlify.app)
 
+---
+
+```
