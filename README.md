@@ -38,9 +38,11 @@ Deployment: This project is pre-configured for GitHub Pages or Netlify.
 🔒 Security Note
 The API key used in this project is restricted via the Google Cloud Console. It is configured to only accept requests from authorized domains and is limited strictly to the YouTube Data API v3 to prevent unauthorized usage or quota abuse.
 
-📫 Connect with Me
-Live Demo: asrarvid.netlify.app
+---
 
-LinkedIn: Asrar Fedlu Kedir
+### 📫 Connect with Me
+- **Live Demo:** [https://asrarvid.netlify.app/](https://asrarvid.netlify.app/)
+- **LinkedIn:** [Asrar Fedlu Kedir](https://www.linkedin.com/in/asrar-fedlu-kedir-23862520a)
+- **Portfolio:** [https://asrarfedlu-portfolio-web.netlify.app](https://asrarfedlu-portfolio-web.netlify.app)
 
-Portfolio: asrarfedlu-portfolio-web.netlify.app
+---
